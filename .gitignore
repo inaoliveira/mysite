@@ -1,0 +1,17 @@
+# Ambiente virtual
+env/
+
+# Arquivos e diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de IDE
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
